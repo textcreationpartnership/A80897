@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of His Highness the Lord Protector and the Parliament, for a day of publique thanksgiving on Friday the twentieth of February, 1656. Monday, the 2d of February, 1656. Ordered by the Parliament, that the declaration for a day of thanksgiving on the twentieth of February instant, be forthwith printed and published, and that the same be sent to the sheriffs of the respective counties and shires, who are required to take care that the same be delivered to the ministers of the respective parishes and congregations. Hen: Scobell, Clerk of the Parliament.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80897</idno>
+            <idno type="STC">Wing C7066</idno>
+            <idno type="STC">Thomason E1065_12</idno>
+            <idno type="EEBO-CITATION">99869460</idno>
+            <idno type="PROQUEST">99869460</idno>
+            <idno type="VID">169269</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80897)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169269)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1065[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of His Highness the Lord Protector and the Parliament, for a day of publique thanksgiving on Friday the twentieth of February, 1656. Monday, the 2d of February, 1656. Ordered by the Parliament, that the declaration for a day of thanksgiving on the twentieth of February instant, be forthwith printed and published, and that the same be sent to the sheriffs of the respective counties and shires, who are required to take care that the same be delivered to the ministers of the respective parishes and congregations. Hen: Scobell, Clerk of the Parliament.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills and John Field, Printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656 [i.e., 1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fasts and feasts --  Great Britain --  Early works to 1800.</term>
+               <term>Public worship --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169269:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 115 -->
+            <pb facs="tcp:169269:2"/>
+            <!-- PDF PAGE 116 -->
+            <pb facs="tcp:169269:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 116 -->
+            <p>
+               <hi>A DECLARATION OF His Highneſs the Lord PROTECTOR AND THE PARLIAMENT, For a Day of Publique Thankſgiving On</hi> Friday <hi>the Twentieth of</hi> February, <hi>1656.</hi>
+            </p>
+            <figure>
+               <figDesc>blazon of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Monday, the 2<hi rend="sup">d</hi> of February, 1656.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Parliament, That the Declaration for a Day of Thanks<g ref="char:EOLhyphen"/>giving on the Twentieth of <hi>February</hi> inſtant, be forthwith Printed and Publiſhed, and that the ſame be ſent to the Sheriffs of the reſpective Counties and Shires, who are required to take care that the ſame be deli<g ref="char:EOLhyphen"/>vered to the Miniſters of the reſpective Pariſhes and Congregations.</p>
+                        <closer>
+                           <signed>
+                              <hi>Hen: Scobell,</hi> Clerk of the Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London, <hi>Printed by</hi> Henry Hills <hi>and</hi> John Field, <hi>Printers to His Highneſs the Lord Protector, 1656.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169269:3"/>
+            <!-- PDF PAGE 117 -->
+            <pb n="1" facs="tcp:169269:3"/>
+            <!-- PDF PAGE 117 -->
+            <head>A Declaration of His Highneſs the Lord Protector and the Parliament, for a Day of Publique Thankſgiving on <date>
+                  <hi>Friday</hi> the Twentieth of <hi>Fe<g ref="char:EOLhyphen"/>bruary,</hi> 1656.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He good People of this Com<g ref="char:EOLhyphen"/>monwealth after a long and ſharp Contention, with the greateſt of Hazards and Diffi<g ref="char:EOLhyphen"/>culties, for the preſervation of their Native Rights, being at length, by the Goodneſs and Power of God, reſtored to the bleſſings of Peace and Freedom, and their Enemies given into their power, Did nevertheleſs by all tenderneſs and milde proceedings, endeavor the regaining of their Countreymen, and not their deſtruction:</p>
+            <p>Yet ſuch was the rancor of many of them, that they ceaſed not to deſign and labor to raiſe new Troubles amongſt us, and open freſh veins of Engliſh blood; for which end, they lately were in actual Arms in ſeveral places, endeavoring again to kindle the flames of Civil Diſſenſion in theſe Nations, had not the ſame by the good Hand of the Lord been quenched and prevented.</p>
+            <p>Beſides theſe, have riſen up a ſort of diſ<g ref="char:EOLhyphen"/>contented Spirits, called <hi>Levellers,</hi> plotting to diſturb Our Peace, divide Our Strength, and to bring new Miſeries upon Vs; but by the ſame good Hand of Providence, theſe were likewiſe ſeaſonably diſcovered, and at that time ſuppreſſed.</p>
+            <p>The lateſt of theſe wicked Practices, was chiefly by ſome of that Party, together with the former Adverſary; and theſe have ſo far degenerated, as to aſſociate themſelves with
+<pb n="2" facs="tcp:169269:4"/>
+               <!-- PDF PAGE 118 -->the inveterate Enemies of the Engliſh Nati<g ref="char:EOLhyphen"/>on and Proteſtant Religion, thoſe of <hi>Spain;</hi> and for malice and hire, to ſubmit themſelves to be executioners of their barbarous De<g ref="char:EOLhyphen"/>ſigns, and againſt their Native Countrey; and finding themſelves diſabled to proſecute the ſame by open Violence, and well knowing that in all precedent Paſſages and Deliver<g ref="char:EOLhyphen"/>ances from the beginning of our Troubles to this preſent, it pleaſed God to make uſe of, and to own the Lord Protector, as a moſt Eminent and Principal Inſtrument, and the Leader of his People:</p>
+            <p>Theſe Conſpirators fell to that which is deteſted even by the People who know not God, yet after the practice of our Foreign Enemy (whereof our publique Miniſters imployed in Foreign parts have had ſad ex<g ref="char:EOLhyphen"/>perience) they fell to ſecret and unworthy Plots againſt the life of the Lord Protector, to commit baſe and horrid Murther upon His perſon, bloodily and inhumanely to Aſſaſinate Him, whom they durſt not by open Force attempt.</p>
+            <p>The particulars whereof in the enſuing Narrative appear, by Examination upon Oath, and Confeſſion of ſome of the parties themſelves who were engaged in this Deſign of Blood and Confuſion.</p>
+            <p>
+               <hi>THat about four Moneths ſince one <hi>Miles Sunder<g ref="char:EOLhyphen"/>comb</hi> acquainted <hi>John Cecill,</hi> that there was a De<g ref="char:EOLhyphen"/>ſign in hand among ſome very conſiderable perſons, for killing the Lord Protector, perſwading him to engage therein; and that it would be a very acceptable Service to take off the Protector, whereby things would come to Confuſion, and the People riſe.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:169269:4"/>
+               <!-- PDF PAGE 118 -->
+               <hi>That there was no attempting him in the Field, nor any other way, but by falling upon his perſon at an advantage, and that money ſhould be provided.</hi>
+            </p>
+            <p>
+               <hi>Upon theſe and ſuch like diſcourſes, <hi>Cecill</hi> engaged to joyn in this work <hi>(viz.)</hi> to attempt and kill the Lord Protector.</hi>
+            </p>
+            <p>
+               <hi>Firſt they provided good horſes, and agreed to at<g ref="char:EOLhyphen"/>tempt him as he went upon the Road, and the intenti<g ref="char:EOLhyphen"/>on was to make a Party of Horſe, of about forty to have aſſaulted him, but that proving a difficult buſineſs to get ſo many men together, it was reſolved to be done by a leſſer party, and theſe two agreed to take the firſt opportunity to Aſſacinate the Protector when he went abroad, and one <hi>Toop</hi> of the life-Guard, whom <hi>Sunder<g ref="char:EOLhyphen"/>comb</hi> had engaged to ſerve them in this attempt, was to give them notice when the Protector went abroad; and <hi>Sundercomb</hi> and <hi>Cecill</hi> were upon the Road five or ſix times, on purpoſe to have made this attempt, and had notice of the Protectors going abroad by <hi>Toop,</hi> but had no opportunity to effect the deſign.</hi>
+            </p>
+            <p>
+               <hi>That <hi>Sundercomb</hi> went once into <hi>Hide Park</hi> with in<g ref="char:EOLhyphen"/>tention to have attempted the Protector there, having a Sword and Piſtol to that purpoſe, being confident that if he could have come neer him, he could have done it and eſcaped.</hi>
+            </p>
+            <p>
+               <hi>That this way proving not effectuall, they took a houſe at <hi>Hammer-ſmith,</hi> where there is a garden-wall, and upon the wall a Banquetting-houſe which is upon the ſtreet, out of which the intention was to ſhoot as he came by, with Guns made on purpoſe for that buſineſs, which ſhould carry twelve or more Bullets at a time.</hi>
+            </p>
+            <p>
+               <hi>That at the ſame time they had a deſign to fire <hi>White<g ref="char:EOLhyphen"/>hall,</hi> and a fire-work was prepared for that purpoſe, and made up in a hand basket with two matches hang<g ref="char:EOLhyphen"/>ing out of each ſide.</hi>
+            </p>
+            <p>
+               <hi>That <hi>Sundercomb</hi> and <hi>Toop</hi> viewed ſeveral places
+<pb n="4" facs="tcp:169269:5"/>
+                  <!-- PDF PAGE 119 -->where they might put the fire-work, and <hi>Toop</hi> under<g ref="char:EOLhyphen"/>took to place it.</hi>
+            </p>
+            <p>
+               <hi>That they &amp; <hi>Cecill</hi> on <hi>Thurſday</hi> the 8. of <hi>January</hi> inſtant, between five and ſix of the clock in the Evening, came to the Chappel at <hi>White-hall,</hi> and brought thither and placed their fire-work with the matches lighted, that they conceived it would have fired between twelve and one of the clock at night.</hi>
+            </p>
+            <p>
+               <hi>That one <hi>Boyes</hi> (a principal actor in theſe deſignes) did aſſure them, that when the Protector was diſpatch<g ref="char:EOLhyphen"/>ed, Forces were to come from <hi>Flanders,</hi> in ſhips to be hired with the King of <hi>Spaines</hi> money.</hi>
+            </p>
+            <p>
+               <hi>That a Port Town was to be ſeized upon, where Forces were to be landed, and that a very great ſum of money would be given for ſuch a place.</hi>
+            </p>
+            <p>
+               <hi>That their deſign is going on for taking away the life of the Protector, and that there are thirty or forty men engaged therein.</hi>
+            </p>
+            <p>
+               <hi>That there was a deſign to take away the Pro<g ref="char:EOLhyphen"/>tectors life the firſt day of the Parliament, the inten<g ref="char:EOLhyphen"/>tion being to ſhoot the Protector as he went by in his Coach, but there being no poſſible way of eſcaping, they were diſcouraged from that enterpriſe.</hi>
+            </p>
+            <p>
+               <hi>Then they hired a houſe neer the <hi>Abby</hi> in <hi>Weſtminſter,</hi> thinking to ſhoot him as he went from the Sermon to the Parliament, but they not having time to make con<g ref="char:EOLhyphen"/>veniencies, and finding ſo many people ſtanding on both ſides the way before the Protector came by, and as he paſſed, they durſt not do any thing for fear of being diſ<g ref="char:EOLhyphen"/>covered before they ſhot.</hi>
+            </p>
+            <p>
+               <hi>That <hi>Sundercombs</hi> diſcourſe was ſuch, that another of his companions believed that he was hired, and ſet on work by the King of <hi>Spain.</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>That he aſſured him that within half a year, he him<g ref="char:EOLhyphen"/>ſelf ſhould be a Colonel of Horſe, and that the other ſhould have a Troop of Horſe and fifteen hundred
+<pb n="5" facs="tcp:169269:5"/>
+                  <!-- PDF PAGE 119 -->pounds in money, when the Protector ſhould be killed; and ſaid, that it was better that <hi>Charles Stuart</hi> ſhould raign here then the Protector.</hi>
+            </p>
+            <p>
+               <hi>That there were five of them beſides <hi>Toop</hi> who knew of this deſign and were ingaged to effect it.</hi>
+            </p>
+            <p>
+               <hi>This Bloody and barbarous deſign thus carried on, though by ſo few perſons, yet it pleaſed the juſt God (who deteſteth wickedneſs) ſo to work upon the heart of one of that ſmall number, that he voluntarily came and diſcovered it to his Highneſs.</hi>
+            </p>
+            <p>Thus did they imagin a Miſchievous device, which (through the goodneſs of God) they were not able to perform; but the Lord hath brought their Counſel to nought, and made their Devices of none effect.</p>
+            <p>It is God who delivered us, and doth deli<g ref="char:EOLhyphen"/>ver, and in whom we truſt, that he will yet de<g ref="char:EOLhyphen"/>liver us.</p>
+            <p>For this eminent Mercy and great delive<g ref="char:EOLhyphen"/>rance which the Lord hath wrought for our Chief Magiſtrate, and for all the good People of this Commonwealth; whoſe peace and com<g ref="char:EOLhyphen"/>forts were deſigned to be taken away with the life of the Protector, and thereby new Cala<g ref="char:EOLhyphen"/>mities, Blood and Confuſion upon all the Inhabitants of the three Nations.</p>
+            <p>For this and many other Mercies, His High<g ref="char:EOLhyphen"/>neſs the Lord Protector, and this preſent Par<g ref="char:EOLhyphen"/>liament, hold themſelves obliged, with all hum<g ref="char:EOLhyphen"/>ble and thankfull acknowledgement, to praiſe his Name, who is the Author of all our Mer<g ref="char:EOLhyphen"/>cies; And for this purpoſe have thought fit, and do hereby appoint, That <hi>Friday</hi>the Twen<g ref="char:EOLhyphen"/>tieth day of <hi>February</hi> One thouſand ſix hun<g ref="char:EOLhyphen"/>dred fifty ſix, ſhall be ſet apart for a day
+<pb n="6" facs="tcp:169269:6"/>
+               <!-- PDF PAGE 120 -->of Publique thankſgiving to the Lord, in all the three Nations of <hi>England, Scotland</hi> and <hi>Ireland;</hi> And do hereby incite and encourage all perſons, who are ſenſible of the Mercy of God to them, to come together in their ſeveral Congregati<g ref="char:EOLhyphen"/>ons for the performance of this Duty, to praiſe the Lord for his goodneſs, humbly to intreat the continuance of his loving kindneſs to us, (though we have departed from him) that our God may be exalted in his own ſtrength; and that Peace and Righteouſneſs may flou<g ref="char:EOLhyphen"/>riſh in theſe Nations.</p>
+            <p>And all perſons whatſoever, are hereby Re<g ref="char:EOLhyphen"/>quired and Enjoyned to abſtain from bodily la<g ref="char:EOLhyphen"/>bour, and from the ordinary workes of their calling upon that day, under the penalties which by Law are to be inflicted for ſuch offen<g ref="char:EOLhyphen"/>ces.</p>
+            <p>And that all Miniſters in their reſpective Congregations, be Required to publiſh this Declaration and Narrative on the Lords day, next before the ſaid day of Publique Thankſ<g ref="char:EOLhyphen"/>giving: And that they be Exhorted on all oc<g ref="char:EOLhyphen"/>caſions in their prayers in the Publique Con<g ref="char:EOLhyphen"/>gregation, to pray for the Lord Protector and all that are in Authority in this Common<g ref="char:EOLhyphen"/>wealth.</p>
+            <closer>
+               <signed>
+                  <hi>Henry Scobell</hi> Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
